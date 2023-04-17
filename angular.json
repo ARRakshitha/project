@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ICINBank"
+    }
+  },
+  "defaultProject": "ICINBank",
+  "cli": {
+    "analytics": "bdce47c4-598d-43ca-bcbd-cd4e8d2f99f0"
+  }
 }
